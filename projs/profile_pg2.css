@@ -1,0 +1,340 @@
+#pogi{
+    height: 200px;
+    width: 150px;
+    box-shadow: 0px 4px 4px 2px rgba(9, 132, 198, 0.25), inset 0px 4px 4px #000000;
+    filter: drop-shadow(0px 4px 4px rgba(9, 132, 198, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px #0280a3);
+    border-radius: 17px;
+    border-radius: 17px;
+    filter: drop-shadow(0px 4px 10px #046681) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    margin-left: 20%;
+    margin-top: 15%;
+}
+
+.p-logo{
+    display: flex;
+    flex-direction: row;
+    margin-left: 22%;
+    margin-top: 10%;
+}
+
+.profile-title{
+    font-family: 'MS UI Gothic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.35em;
+    color: #FFFFFF;
+    margin-top: 10%;
+    margin-left: 2.5%;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 10), 0px 4px 4px rgba(0, 0, 0, 10);
+    
+}
+
+.btn{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -1%;
+}
+
+#pg2left-button{
+    height: 33px;
+    width: 33px;
+}
+
+#pg2right-button{
+    height: 33px;
+    width: 33px;
+}
+
+.socmed-lines{
+    margin-top: 10%;
+    margin-left: 20%;
+}
+
+.socmed-icons{
+    margin-top: -110%;
+}
+
+#fb{
+    height: 50px;
+    width: 50px;
+    margin-left: 25%;
+    margin-top: 40%;
+}
+
+#ig{
+    height: 50px;
+    width: 50px;
+    margin-left: 10%;
+    margin-top: 8.9%;
+}
+
+#X{
+    height: 50px;
+    width: 50px;
+    margin-right: 10%;
+    margin-top: 12%;
+    margin-left: 26%;
+}
+
+#x-error-icon{
+    margin-left: 18%;
+    margin-bottom: 10%;
+}
+
+/*info-box1 content styling*/
+
+#college{
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+#inputted-college{
+    margin-top: -7.8%;
+    margin-left: 14%;
+    font-family:'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: left;
+}
+
+#inputted-course{
+    margin-top: -5%;
+    margin-left: 8.5%;
+    font-family:'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: left;
+}
+
+#inputted-status{
+    margin-top: -14.5%;
+    margin-left: 23%;
+    font-family:'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: left;
+}
+
+#inputted-year-level{
+    margin-top: -5%;
+    margin-left: 9%;
+    font-family:'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: left;
+}
+
+#inputted-department{
+    margin-top: -5%;
+    margin-left: 9%;
+    font-family:'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: left;
+}
+
+#status{
+    margin-left: 3%;
+    margin-top: 4%;
+}
+
+#course{
+    height: 20px;
+    width: 27.9px;
+    margin-left: 1.5%;
+    margin-top: 2%;
+}
+
+#year-level{
+    height: 20px;
+    width: 27.9px;
+    margin-left: 1.5%;
+    margin-top: 2%;
+}
+
+#department{
+    margin-left: 1.5%;
+    margin-top: 2%;
+}
+
+/* Hobbies-Title styling */
+
+.likes-title{
+    font-family: 'MS UI Gothic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    /* identical to box height */
+    text-align: left;
+    margin-left: 18%;
+    margin-top: 6%;
+
+    color: #00A5FF;
+}
+
+#likes-title-logo{
+    display: flex;
+    margin-left: 14%;
+    margin-top: -8%;
+}
+
+#likes-title-line{
+    display: flex;
+    margin-left: -1.5%;
+    width: 20%;
+    margin-right: 40%;
+    margin-top: -.5%
+}
+
+/* info-box2 content styling  */
+
+#likes-first-icon{
+    margin-left: 3%;
+    margin-top: 16%;
+}
+
+#likes-second-icon{
+    display: flex;
+    margin-left: 2.5%;
+    margin-top: 1%;
+}
+
+#likes-third-icon{
+    margin-left: 3%;
+    margin-top: 2% ;
+}
+
+#likes-fourth-icon{
+    display: flex;
+    margin-left: 3%;
+    margin-top: .2%;
+}
+
+#likes-fifth-icon{
+    margin-left: 3%;
+    margin-top: 1.5%;
+}
+
+#likes-list{
+    position: absolute;
+    width: 213px;
+    height: 139px;
+    left: 613px;
+    top: 445px;
+    font-family: 'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 12px;
+    /* identical to box height */
+    text-align: left;
+
+    color: #000000;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+li{
+    padding-bottom: 15px;
+}
+
+/* Aspirations-Title styling */
+
+.dislikes-title{
+    margin-top: -46.8%;
+    margin-left: 45.5%;
+    font-family: 'MS UI Gothic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    /* identical to box height */
+    text-align: center;
+
+    color: #00A5FF;
+}
+
+#dislikes-title-logo{
+    display: flex;
+    margin-left: 67.5%;
+    margin-top: -12%;
+}
+
+#dislikes-title-line{
+    display: flex;
+    height: 1%;
+    width: 40%;
+    margin-left: 33%;
+    margin-top: .1%;
+}
+
+/* info-box3 content styling */
+
+#dislikes-first-icon{
+    height: 20px;
+    width: 20px;
+    margin-left: 4.3%;
+    margin-top: 17%;
+}
+
+#dislikes-second-icon{
+    display: flex;
+    margin-top: 1.5%;
+    margin-left: 4%;
+}
+
+#dislikes-third-icon{
+    margin-left: 5.5%;
+    margin-top: 4%;
+}
+
+#dislikes-fourth-icon{
+    display: flex;
+    margin-left: 5.4%;
+    margin-top: 3.3%;
+}
+
+#dislikes-fifth-icon{
+    height: 30px;
+    width: 30%;
+    margin-left: -6%;
+    margin-top: 4%;
+
+}
+
+#dislikes-list{
+    position: absolute;
+    width: 213px;
+    height: 139px;
+    left: 959px;
+    top: 445px;
+    font-family: 'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 12px;
+    /* identical to box height */
+    text-align: left;
+
+    color: #000000;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+
